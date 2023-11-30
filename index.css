@@ -56,8 +56,8 @@
   width: 100px;
   height: 40px;
   border:none ;
-  position: relative;
-  top: -400px;
+  position: fixed;
+  top: 10px;
   left: 20px;
 }
 

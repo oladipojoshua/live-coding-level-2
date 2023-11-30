@@ -30,9 +30,9 @@ if (budgetArray && budgetArray.length > 0) {
   width: 200px;
   height: 40px;
   border:none ;
-  position: relative;
-  top: -50px;
-  left: 560px;">TOTAL-SPENT: $${totalSpent.toFixed(2)}</p>`;
+  position: fixed;
+  top: 10px;
+  left: 1000px;">TOTAL-SPENT: $${totalSpent.toFixed(2)}</p>`;
 }
     
     
